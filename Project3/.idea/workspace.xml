@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43ebdbb2-4280-42da-a555-dd1c02e939f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YzgBnu0nhOgzB4FJgFFlAAFEal" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Project3">
+    <configuration name="GeneralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeneralMatrix" />
+      <module name="Project3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <output_file path="$PROJECT_DIR$/variance.data" is_save="true" />
+      <option name="MAIN_CLASS_NAME" value="Project3" />
+      <module name="Project3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TriMatrix" />
+      <module name="Project3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GeneralMatrix" />
+      <item itemvalue="Application.Project3" />
+      <item itemvalue="Application.TriMatrix" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Project3" />
+        <item itemvalue="Application.GeneralMatrix" />
+        <item itemvalue="Application.TriMatrix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43ebdbb2-4280-42da-a555-dd1c02e939f1" name="Default Changelist" comment="" />
+      <created>1583950704021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583950704021</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589652661635">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1589652661635" />
+    <state x="463" y="140" key="FileChooserDialogImpl" timestamp="1588691267800">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="140" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1588691267800" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1589731399480">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1589731399480" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1589731399480">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1589731399480" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1589731399480">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1589731399480" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1589731399480">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1589731399480" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1589652568959">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1589652568959" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1588502082891">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1588502082891" />
+  </component>
+</project>
